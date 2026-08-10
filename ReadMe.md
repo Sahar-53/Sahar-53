@@ -51,7 +51,20 @@ I'm a passionate Full Stack Developer with experience building responsive web ap
   <img src="https://img.shields.io/badge/Cloud-Amazon_AWS-blue?style=for-the-badge&logo=amazonaws" alt="AWS (Cloud Practitioner)"/>
   <img src="https://img.shields.io/badge/Microsoft-Azure-blue?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Azure (AZ-900)"/>
 </p>
----
+
+## Projects
+
+### 📝 Task Management Web Application
+
+A full-stack task management web application designed to help users create, organize, and manage their tasks efficiently.
+
+**Key Features:**
+- Create, update, and delete tasks
+- Organize and track tasks
+- Responsive web interface
+- User-friendly task management experience
+
+🔗 **[View Project on GitHub] https://github.com/Sahar-53/Final-Project**
 
 ## Connect With Me
 <p align="center">

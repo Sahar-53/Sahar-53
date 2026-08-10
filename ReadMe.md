@@ -29,7 +29,7 @@ I'm a passionate Full Stack Developer with experience building responsive web ap
 ### Backend
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
 </p>
 
 ### Databases
@@ -43,13 +43,13 @@ I'm a passionate Full Stack Developer with experience building responsive web ap
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/PyCharm-000000?logo=PyCharm&logoColor=white" alt="PyCharm"/>
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=PyCharm&logoColor=white" alt="PyCharm"/>
 </p>
 
 ### Cloud
 <p align="left">
-  <img src="https://img.shields.io/badge/Cloud-Amazon_AWS-blue?logo=amazonaws" alt="AWS (Cloud Practitioner)"/>
-  <img src="https://img.shields.io/badge/Microsoft-Azure-blue?logo=microsoftazure&logoColor=white&style=plastic" alt="Microsoft Azure (AZ-900)"/>
+  <img src="https://img.shields.io/badge/Cloud-Amazon_AWS-blue?style=for-the-badge&logo=amazonaws" alt="AWS (Cloud Practitioner)"/>
+  <img src="https://img.shields.io/badge/Microsoft-Azure-blue?style=for-the-badge&logo=microsoftazure&logoColor=white&style=plastic" alt="Microsoft Azure (AZ-900)"/>
 </p>
 ---
 

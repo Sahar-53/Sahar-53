@@ -49,7 +49,7 @@ I'm a passionate Full Stack Developer with experience building responsive web ap
 ### Cloud
 <p align="left">
   <img src="https://img.shields.io/badge/Cloud-Amazon_AWS-blue?style=for-the-badge&logo=amazonaws" alt="AWS (Cloud Practitioner)"/>
-  <img src="https://img.shields.io/badge/Microsoft-Azure-blue?style=for-the-badge&logo=microsoftazure&logoColor=white&style=plastic" alt="Microsoft Azure (AZ-900)"/>
+  <img src="https://img.shields.io/badge/Microsoft-Azure-blue?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Azure (AZ-900)"/>
 </p>
 ---
 

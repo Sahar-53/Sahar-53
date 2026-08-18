@@ -64,7 +64,10 @@ A full-stack task management web application designed to help users create, orga
 - Responsive web interface
 - User-friendly task management experience
 
-🔗 **[View Project on GitHub] https://github.com/Sahar-53/Final-Project**
+**Description:**
+This is a Flask-based task management web application. Users need to be registered to access the application. Once registered, users can log in to create, manage and delete the tasks. Users get an overview of their tasks i.e. Dashboard, where they can organise tasks by setting due dates, priority level and status. There is also a search feature for users to look up their tasks either by title or description. Moreover, users can also sort the tasks by due date, title or status. The application includes filtering options by status and priority to help users organise and manage tasks more effectively.
+
+🔗 **[View Project on GitHub] https://github.com/Sahar-53/Task-Management-Web-Application**
 
 ## Connect With Me
 <p align="center">
